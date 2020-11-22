@@ -1,0 +1,12 @@
+{
+  "name": "my-app",
+  "version": "0.0.1",
+  "manifest_version":2,
+  "description": "create-react-app for extensions",
+  "permissions": [],
+  
+  "browser_action": {
+    "default_popup": "popup.html"
+  },
+  "options_page": "index.html"
+}
